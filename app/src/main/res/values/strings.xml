@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneProject</string>
+    <string name="grant_permission_to_send_sms">Grant permission to send SMS</string>
+</resources>
