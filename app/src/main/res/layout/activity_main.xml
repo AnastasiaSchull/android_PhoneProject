@@ -14,6 +14,13 @@
         android:layout_height="wrap_content"
         android:text="Settings" />
 
+    <Button
+        android:id="@+id/phoneListButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Phone Number" />
+
+
     <EditText
         android:id="@+id/phoneText"
         android:layout_width="match_parent"
